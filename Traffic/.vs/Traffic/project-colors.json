@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b98a8aaf-cc6a-44b4-ba3e-f76e6e744236": {
+      "ProjectGuid": "b98a8aaf-cc6a-44b4-ba3e-f76e6e744236",
+      "DisplayName": "Traffic",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+C:\Users\Quinn\School\programs\Traffic\Traffic\bin\Debug\Traffic.exe.config
+C:\Users\Quinn\School\programs\Traffic\Traffic\bin\Debug\Traffic.exe
+C:\Users\Quinn\School\programs\Traffic\Traffic\bin\Debug\Traffic.pdb
+C:\Users\Quinn\School\programs\Traffic\Traffic\obj\Debug\Traffic.csproj.AssemblyReference.cache
+C:\Users\Quinn\School\programs\Traffic\Traffic\obj\Debug\Traffic.csproj.CoreCompileInputs.cache
+C:\Users\Quinn\School\programs\Traffic\Traffic\obj\Debug\Traffic.exe
+C:\Users\Quinn\School\programs\Traffic\Traffic\obj\Debug\Traffic.pdb
+C:\Users\Quinn\School\Software\programs\Traffic\Traffic\bin\Debug\Traffic.exe.config
+C:\Users\Quinn\School\Software\programs\Traffic\Traffic\bin\Debug\Traffic.exe
+C:\Users\Quinn\School\Software\programs\Traffic\Traffic\bin\Debug\Traffic.pdb
+C:\Users\Quinn\School\Software\programs\Traffic\Traffic\obj\Debug\Traffic.csproj.AssemblyReference.cache
+C:\Users\Quinn\School\Software\programs\Traffic\Traffic\obj\Debug\Traffic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Quinn\School\Software\programs\Traffic\Traffic\obj\Debug\Traffic.csproj.CoreCompileInputs.cache
+C:\Users\Quinn\School\Software\programs\Traffic\Traffic\obj\Debug\Traffic.exe
+C:\Users\Quinn\School\Software\programs\Traffic\Traffic\obj\Debug\Traffic.pdb

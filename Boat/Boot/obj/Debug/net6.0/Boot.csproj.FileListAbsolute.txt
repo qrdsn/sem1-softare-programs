@@ -1,0 +1,15 @@
+C:\Users\Quinn\School\Software\programs\Boot\Boot\bin\Debug\net6.0\Boot.exe
+C:\Users\Quinn\School\Software\programs\Boot\Boot\bin\Debug\net6.0\Boot.deps.json
+C:\Users\Quinn\School\Software\programs\Boot\Boot\bin\Debug\net6.0\Boot.runtimeconfig.json
+C:\Users\Quinn\School\Software\programs\Boot\Boot\bin\Debug\net6.0\Boot.dll
+C:\Users\Quinn\School\Software\programs\Boot\Boot\bin\Debug\net6.0\ref\Boot.dll
+C:\Users\Quinn\School\Software\programs\Boot\Boot\bin\Debug\net6.0\Boot.pdb
+C:\Users\Quinn\School\Software\programs\Boot\Boot\obj\Debug\net6.0\Boot.csproj.AssemblyReference.cache
+C:\Users\Quinn\School\Software\programs\Boot\Boot\obj\Debug\net6.0\Boot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quinn\School\Software\programs\Boot\Boot\obj\Debug\net6.0\Boot.AssemblyInfoInputs.cache
+C:\Users\Quinn\School\Software\programs\Boot\Boot\obj\Debug\net6.0\Boot.AssemblyInfo.cs
+C:\Users\Quinn\School\Software\programs\Boot\Boot\obj\Debug\net6.0\Boot.csproj.CoreCompileInputs.cache
+C:\Users\Quinn\School\Software\programs\Boot\Boot\obj\Debug\net6.0\Boot.dll
+C:\Users\Quinn\School\Software\programs\Boot\Boot\obj\Debug\net6.0\ref\Boot.dll
+C:\Users\Quinn\School\Software\programs\Boot\Boot\obj\Debug\net6.0\Boot.pdb
+C:\Users\Quinn\School\Software\programs\Boot\Boot\obj\Debug\net6.0\Boot.genruntimeconfig.cache

@@ -1,0 +1,34 @@
+C:\Users\Quinn\School\Software\programs\Bankzaken\Bankzaken\bin\Debug\Bankzaken.exe.config
+C:\Users\Quinn\School\Software\programs\Bankzaken\Bankzaken\bin\Debug\Bankzaken.exe
+C:\Users\Quinn\School\Software\programs\Bankzaken\Bankzaken\bin\Debug\Bankzaken.pdb
+C:\Users\Quinn\School\Software\programs\Bankzaken\Bankzaken\obj\Debug\Bankzaken.csproj.AssemblyReference.cache
+C:\Users\Quinn\School\Software\programs\Bankzaken\Bankzaken\obj\Debug\Bankzaken.csproj.SuggestedBindingRedirects.cache
+C:\Users\Quinn\School\Software\programs\Bankzaken\Bankzaken\obj\Debug\Bankzaken.Bankrekeningenform.resources
+C:\Users\Quinn\School\Software\programs\Bankzaken\Bankzaken\obj\Debug\Bankzaken.Properties.Resources.resources
+C:\Users\Quinn\School\Software\programs\Bankzaken\Bankzaken\obj\Debug\Bankzaken.csproj.GenerateResource.cache
+C:\Users\Quinn\School\Software\programs\Bankzaken\Bankzaken\obj\Debug\Bankzaken.csproj.CoreCompileInputs.cache
+C:\Users\Quinn\School\Software\programs\Bankzaken\Bankzaken\obj\Debug\Bankzaken.exe
+C:\Users\Quinn\School\Software\programs\Bankzaken\Bankzaken\obj\Debug\Bankzaken.pdb
+C:\Users\Quinn\School\Software\programs\Bankzaken\Bankzaken\obj\Debug\Bankzaken.CreateAccountForm.resources
+C:\Users\Quinn\School\Software\programs\Bankzaken - Copy\Bankzaken\bin\Debug\Bankzaken.exe.config
+C:\Users\Quinn\School\Software\programs\Bankzaken - Copy\Bankzaken\bin\Debug\Bankzaken.exe
+C:\Users\Quinn\School\Software\programs\Bankzaken - Copy\Bankzaken\bin\Debug\Bankzaken.pdb
+C:\Users\Quinn\School\Software\programs\Bankzaken - Copy\Bankzaken\obj\Debug\Bankzaken.csproj.AssemblyReference.cache
+C:\Users\Quinn\School\Software\programs\Bankzaken - Copy\Bankzaken\obj\Debug\Bankzaken.csproj.SuggestedBindingRedirects.cache
+C:\Users\Quinn\School\Software\programs\Bankzaken - Copy\Bankzaken\obj\Debug\Bankzaken.Properties.Resources.resources
+C:\Users\Quinn\School\Software\programs\Bankzaken - Copy\Bankzaken\obj\Debug\Bankzaken.csproj.GenerateResource.cache
+C:\Users\Quinn\School\Software\programs\Bankzaken - Copy\Bankzaken\obj\Debug\Bankzaken.csproj.CoreCompileInputs.cache
+C:\Users\Quinn\School\Software\programs\Bankzaken - Copy\Bankzaken\obj\Debug\Bankzaken.exe
+C:\Users\Quinn\School\Software\programs\Bankzaken - Copy\Bankzaken\obj\Debug\Bankzaken.pdb
+C:\Users\Quinn\School\Software\programs\Bankzaken - Copy\Bankzaken\obj\Debug\Bankzaken.BankrekeningForm.resources
+C:\Users\Quinn\School\Software\programs\Bankzaken - old\Bankzaken\bin\Debug\Bankzaken.exe.config
+C:\Users\Quinn\School\Software\programs\Bankzaken - old\Bankzaken\bin\Debug\Bankzaken.exe
+C:\Users\Quinn\School\Software\programs\Bankzaken - old\Bankzaken\bin\Debug\Bankzaken.pdb
+C:\Users\Quinn\School\Software\programs\Bankzaken - old\Bankzaken\obj\Debug\Bankzaken.csproj.AssemblyReference.cache
+C:\Users\Quinn\School\Software\programs\Bankzaken - old\Bankzaken\obj\Debug\Bankzaken.csproj.SuggestedBindingRedirects.cache
+C:\Users\Quinn\School\Software\programs\Bankzaken - old\Bankzaken\obj\Debug\Bankzaken.BankrekeningForm.resources
+C:\Users\Quinn\School\Software\programs\Bankzaken - old\Bankzaken\obj\Debug\Bankzaken.Properties.Resources.resources
+C:\Users\Quinn\School\Software\programs\Bankzaken - old\Bankzaken\obj\Debug\Bankzaken.csproj.GenerateResource.cache
+C:\Users\Quinn\School\Software\programs\Bankzaken - old\Bankzaken\obj\Debug\Bankzaken.csproj.CoreCompileInputs.cache
+C:\Users\Quinn\School\Software\programs\Bankzaken - old\Bankzaken\obj\Debug\Bankzaken.exe
+C:\Users\Quinn\School\Software\programs\Bankzaken - old\Bankzaken\obj\Debug\Bankzaken.pdb

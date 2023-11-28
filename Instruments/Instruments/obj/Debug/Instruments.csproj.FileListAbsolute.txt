@@ -1,0 +1,15 @@
+C:\Users\Quinn\School\programs\Instruments\Instruments\bin\Debug\Instruments.exe.config
+C:\Users\Quinn\School\programs\Instruments\Instruments\bin\Debug\Instruments.exe
+C:\Users\Quinn\School\programs\Instruments\Instruments\bin\Debug\Instruments.pdb
+C:\Users\Quinn\School\programs\Instruments\Instruments\obj\Debug\Instruments.csproj.AssemblyReference.cache
+C:\Users\Quinn\School\programs\Instruments\Instruments\obj\Debug\Instruments.csproj.CoreCompileInputs.cache
+C:\Users\Quinn\School\programs\Instruments\Instruments\obj\Debug\Instruments.exe
+C:\Users\Quinn\School\programs\Instruments\Instruments\obj\Debug\Instruments.pdb
+C:\Users\Quinn\School\Software\programs\Instruments\Instruments\bin\Debug\Instruments.exe.config
+C:\Users\Quinn\School\Software\programs\Instruments\Instruments\bin\Debug\Instruments.exe
+C:\Users\Quinn\School\Software\programs\Instruments\Instruments\bin\Debug\Instruments.pdb
+C:\Users\Quinn\School\Software\programs\Instruments\Instruments\obj\Debug\Instruments.csproj.AssemblyReference.cache
+C:\Users\Quinn\School\Software\programs\Instruments\Instruments\obj\Debug\Instruments.csproj.SuggestedBindingRedirects.cache
+C:\Users\Quinn\School\Software\programs\Instruments\Instruments\obj\Debug\Instruments.csproj.CoreCompileInputs.cache
+C:\Users\Quinn\School\Software\programs\Instruments\Instruments\obj\Debug\Instruments.exe
+C:\Users\Quinn\School\Software\programs\Instruments\Instruments\obj\Debug\Instruments.pdb

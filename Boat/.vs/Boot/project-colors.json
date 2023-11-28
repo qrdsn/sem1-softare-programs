@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c419b49a-a664-49a3-8e45-94e1e087186f": {
+      "ProjectGuid": "c419b49a-a664-49a3-8e45-94e1e087186f",
+      "DisplayName": "Boot",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

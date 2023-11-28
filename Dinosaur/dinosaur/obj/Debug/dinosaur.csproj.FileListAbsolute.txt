@@ -1,0 +1,11 @@
+C:\Users\Quinn\School\Software\programs\dinosaur\dinosaur\bin\Debug\dinosaur.exe.config
+C:\Users\Quinn\School\Software\programs\dinosaur\dinosaur\bin\Debug\dinosaur.exe
+C:\Users\Quinn\School\Software\programs\dinosaur\dinosaur\bin\Debug\dinosaur.pdb
+C:\Users\Quinn\School\Software\programs\dinosaur\dinosaur\obj\Debug\dinosaur.csproj.AssemblyReference.cache
+C:\Users\Quinn\School\Software\programs\dinosaur\dinosaur\obj\Debug\dinosaur.csproj.SuggestedBindingRedirects.cache
+C:\Users\Quinn\School\Software\programs\dinosaur\dinosaur\obj\Debug\dinosaur.Form1.resources
+C:\Users\Quinn\School\Software\programs\dinosaur\dinosaur\obj\Debug\dinosaur.Properties.Resources.resources
+C:\Users\Quinn\School\Software\programs\dinosaur\dinosaur\obj\Debug\dinosaur.csproj.GenerateResource.cache
+C:\Users\Quinn\School\Software\programs\dinosaur\dinosaur\obj\Debug\dinosaur.csproj.CoreCompileInputs.cache
+C:\Users\Quinn\School\Software\programs\dinosaur\dinosaur\obj\Debug\dinosaur.exe
+C:\Users\Quinn\School\Software\programs\dinosaur\dinosaur\obj\Debug\dinosaur.pdb
